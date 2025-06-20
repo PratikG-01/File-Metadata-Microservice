@@ -5,7 +5,6 @@ This microservice allows users to upload a file and returns metadata about the f
 name, type, and size. It is built using Node.js, Express, and Multer for handling file uploads.
 
 FEATURES
-
     •    Accepts file uploads via POST request
 
     •    Extracts and returns file name, type, and size
